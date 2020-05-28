@@ -1,0 +1,12 @@
+#
+# pattern:
+#
+# file/directory    user
+#
+
+
+*.js                @ChrishanNTG
+*.html              @melgoetze
+
+
+components/*.md     @SteveNTG
